@@ -2,7 +2,7 @@
 
 **Source Design:**
 
--figma: [link](https://www.figma.com/file/Yf8eAPv64MXENhETRNjkt7/furniture-shop?type=design&t=1zvhyejUA9VE0ra9-0)
+- figma: [link](https://www.figma.com/file/Yf8eAPv64MXENhETRNjkt7/furniture-shop?type=design&t=1zvhyejUA9VE0ra9-0)
 
 **Packages using:**
 
