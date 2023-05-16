@@ -13,4 +13,6 @@
 I'm design two screens, one is the home screens with menu, search & category list of products. And another one is the details screen provides you more details about the product like price, long description, at the bottom chat, and add to cart button.
 
 ### Furniture App Final UI
-![Preview] ![image](https://github.com/alghanykennedy/Furniture_Shop_App/assets/82708330/c1ae8fe7-fb55-4c9c-add2-bb1e39e14249)
+
+#### Home Screen
+![image](https://github.com/alghanykennedy/Furniture_Shop_App/assets/82708330/c1ae8fe7-fb55-4c9c-add2-bb1e39e14249)
