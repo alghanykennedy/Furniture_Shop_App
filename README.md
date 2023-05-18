@@ -28,8 +28,8 @@
     │   ├── theme                   - It contains app theme and decoration classes
     │   └── utils                   - It contains common files and utilities of the application
     ├── presentation                - It contains widgets of the screens
-    │   ├── routes                  - It contains all the routes of the application
-    │   └── widgets                 - It contains all custom widget classes
+        ├── routes                  - It contains all the routes of the application
+        └── widgets                 - It contains all custom widget classes
 ```
 
 I'm design two screens, one is the home screens with menu, search & category list of products. And another one is the details screen provides you more details about the product like price, long description, at the bottom chat, and add to cart button.
